@@ -1,0 +1,15 @@
+{
+  "name": "bankist",
+  "version": "1.0.0",
+  "description": "banking application",
+  "default": "index.html",
+  "scripts": {
+    "test": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Asha Thomas",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
